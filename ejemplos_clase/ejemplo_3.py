@@ -14,8 +14,14 @@ nombre = str(input())
 print('Nombre ingresado:', nombre)
 
 print('Ingrese cuantos años tiene:')
-edad = int(input())
+edad = str(input())
+edad = int(edad)
 print('Edad ingresada:', edad)
+
+numero_1 = imput("ingrese un numero: ")
+numero_2 = imput("ingrese un numero: ")
+
+rsultado= numero_1+numero_2
 
 print('Ingrese su altura en metros:')
 altura = float(input())

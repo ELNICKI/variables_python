@@ -8,7 +8,7 @@
 
 # Una cadena de texto (string) está compuesta de Nº caracteres
 # ¿Cuántos caracteres tiene el Argentina?
-pais = 'Argentina'
+pais = 'peru'
 argentina_len = len(pais)
 print(pais, 'tiene', argentina_len, 'caracteres')
 

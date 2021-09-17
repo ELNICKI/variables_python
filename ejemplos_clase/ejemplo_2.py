@@ -25,3 +25,4 @@ print(mensaje)
 # Duplicando el texto
 texto_duplicado = texto_1 * 2
 print('Duplicar texto', texto_1, ':', texto_duplicado)
+
