@@ -28,8 +28,17 @@ numero_2 = int(input())
 
 # Suma
 
+print  (numero_1 + numero_2)
+
 # Resta
+
+print (numero_1 - numero_2)
 
 # División
 
+print (numero_1 / numero_2)
+
 # Multiplicación
+
+print (numero_1 * numero_2)
+
